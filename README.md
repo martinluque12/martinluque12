@@ -4,7 +4,7 @@
 <div align="center">
   <h2>:rocket: Future Programme :star2:</h2>
 </div>
-<div align="">
+<div>
   <h2>About me:</h2>
 </div>
 
