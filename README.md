@@ -2,11 +2,11 @@
   <h1>Hi, I'm Martin👋</h1>
 </div>
 <div align="center">
-  <h2>:rocket: Future Programme:star2:</h2>
+  <h2>:rocket: Future Programme :star2:</h2>
 </div>
 <!--
 **martinluque12/martinluque12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+*Currently, I am studying the University Technician in Programming at UTN Avellaneda.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
