@@ -1,4 +1,4 @@
-![image](https://github.com/martinluque12/martinluque12/assets/129702660/dae15ebc-bc09-448a-bbab-d62362c6223c)<div align="center">
+<div align="center">
   <h1>Hi, I'm Martin👋</h1>
 </div>
 <div align="center">
