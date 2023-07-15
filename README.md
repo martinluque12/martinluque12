@@ -1,4 +1,6 @@
-###                                                         Hi there Martin👋
+<div align="center">
+  <h1>### Hi there Martin👋</h1>
+</div>
 
 <!--
 **martinluque12/martinluque12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
