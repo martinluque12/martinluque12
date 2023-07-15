@@ -4,6 +4,9 @@
 <div align="center">
   <h2>:rocket: Future Programme :star2:</h2>
 </div>
+<div align="center">
+  <h2>About me:</h2>
+</div>
 
 - 🔭 Currently, I am studying the University Technician in Programming at UTN Avellaneda.
 - 🤔 I have just completed the first semester of the degree, where we learned the Python language.
