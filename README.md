@@ -2,7 +2,7 @@
   <h1>Hi, I'm Martin👋</h1>
 </div>
 <div align="center">
-  <h2>:rocket: Future Programme :star2:</h2>
+  <h2>:rocket: Future Programmer :star2:</h2>
 </div>
 <div>
   <h2>About me:</h2>
