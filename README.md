@@ -1,15 +1,14 @@
 <div align="center">
-  <h1>Hi, I'm Martin👋</h1>
+  <h1>Hola, soy Martín👋</h1>
 </div>
 <div align="center">
-  <h2>:rocket: Future Programmer :star2:</h2>
+  <h2>:rocket: Futuro Programador :star2:</h2>
 </div>
 <div>
-  <h2>About me:</h2>
+  <h2>Sobre mí:</h2>
 </div>
 
-- 🔭 Currently, I am studying the University Technician in Programming at UTN Avellaneda.
-- 🤔 I have just completed the first semester of the degree, where we learned the Python language.
+- 🔭 Actualmente, estoy estudiando la Tecnicatura Universitaria en Programación en UTN Avellaneda.
+- 🤔 Acabo de completar el primer semestre de la carrera, donde aprendimos el lenguaje Python.
 - 📫 Puedes contactarme aquí: [Email](mailto:m.ezequiel.luque@gmail.com) 
-- 📃 You can find my profile LinkedIn here: [LinkedIn](https://www.linkedin.com/in/martineluque/)
-
+- 📃 Puedes encontrar mi perfil de LinkedIn aquí: [LinkedIn](https://www.linkedin.com/in/martineluque/)
